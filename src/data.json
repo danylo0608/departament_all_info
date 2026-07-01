@@ -1,0 +1,221 @@
+{
+  "locations": [
+    {
+      "id": "loc-1",
+      "name": "Молодіжний християнський хаб «Полтава»",
+      "type": "youth",
+      "typeNameUk": "Молодіжне",
+      "description": "Відкритий простір для молоді, вивчення Слова, кава-зустрічей та спільних християнських проєктів у серці Полтави.",
+      "address": "вул. Соборності, 14, Полтава",
+      "coordinates": { "x": 72, "y": 55 },
+      "responsiblePerson": "Олександр Мельник",
+      "email": "hub.poltava@ministry.ua",
+      "phone": "+380 532 12 34 56",
+      "detailedMission": "Хаб є безпечним християнським осередком, створеним для натхнення, менторства та розвитку лідерських навичок у молоді Полтавщини.",
+      "meetingsSchedule": [
+        { "day": "Понеділок", "title": "Молитовна зустріч", "time": "19:00" },
+        { "day": "Середа", "title": "Вивчення Писання", "time": "18:30" },
+        { "day": "Субота", "title": "Волонтерський виїзд", "time": "10:00" }
+      ],
+      "galleryImages": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuBGi2LL_M3zd2wqMSJOJopS8sb9CE5mNoAhySQyagbFkTziE6i4qiCGXkgfNXocttDt0fMJCws3whgdsJuBWV2YU9QrohRde3OElp7UPrjr6xpAF7nKrHnY_iYraStWRJhhuDNzbysarX2tKIFMKtPVmJbiKQpXjg47fO7n7Me4V1gbWO-NYzMcw9m22h-Efa-dde_3YS0wcowtF929EmhAuftxtrpns8NRB_DG0hIuQKuEBKiVT-X8mfm3GbqwdaBgrYJD9pQ-xlHx",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuD9XKzhE6N_gIZ651MQc9XACyZqF70aQDGREAbqcISO66l5DVf20n-pD1ga_DxxS-zc679xS9x_Ksk4h3bzcJSeMVMcRtBHVeRfxq-mHCPsV5PzQGvvh6J04DP9INp29OJPHWfuS4LlnrUMK_2TiESZ0p67ragXDdVG3PaVV8t7nEp8-RPLsmj0Wmc8VfVxRiA0xcr_653fP29ZvGe0G6M0_mPeO8QZBS-FIgA7ZrzXOU1Cv4IDrO7E_Zr-5iRny94FdjB4VDkoSPLE"
+      ]
+    },
+    {
+      "id": "loc-2",
+      "name": "Благодійний хаб «Світло Кременчука»",
+      "type": "social",
+      "typeNameUk": "Соціальне",
+      "description": "Гуманітарна допомога родинам, безкоштовні обіди, медичний патронаж та духовна опіка на півдні області.",
+      "address": "вул. Перемоги, 10, Кременчук",
+      "coordinates": { "x": 48, "y": 82 },
+      "responsiblePerson": "Олена Савченко",
+      "email": "svitlo.kr@ministry.ua",
+      "phone": "+380 536 76 54 32",
+      "detailedMission": "Спрямовано на підтримку сімей Полтавщини та вимушених переселенців. Надаємо безкоштовні продуктові набори, одяг, духовну опіку та психологічну допомогу.",
+      "meetingsSchedule": [
+        { "day": "Вівторок", "title": "Видача допомоги та кава-зустріч", "time": "10:00 - 15:00" },
+        { "day": "П'ятниця", "title": "Дитячі розвиваючі гуртки", "time": "16:00" },
+        { "day": "Неділя", "title": "Служіння подяки", "time": "11:00" }
+      ],
+      "galleryImages": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuDkUTi5Tm7jG44ARnHb7o2KzaIjk06FXx023MvmwviuySvNUK3Cdg2SRcIS5fL0HHxPKMzI3nst9yJHZzgTkavzSWuAAoybqgwlvB2LQxunleXa4vVCcCumZgOX5xq29jHz_aX0MepijGHigGD_QjCxcP5PtCooYKSs1hRnHfL6Wc47_b-s1XzRJk41LBxzDYWgaCXS9AvkwtCuFxqCDac4qOoQgJNzJyO8E2rsGCxUawk-QcBqUcNrX9H3o8YbnMnp1e0u2kM5p04x",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuA2l_b2vLnCp2m3R9Z5oWYoN5dBMMorz6b3HT65i1a0dVM8XH9YYwF3eMSWfSJCWaM74nKgrdSSNS7SVg8kwn2m1VnvYVzPxXd_qn2ERJj_puFtAVeAdSVZwkkeROKw9yje_qKexiLDE2FnRLLMp82esD9RD74x93VTn2nd77_bw49Z8OUecujG8Jq4ikD0OvEmlOLIZJtrGrCBtzgvpJp4BPOzj-Y5n0VJ5dDuMX4EnUmTSfAIajvJmr4KBfIHKwyrifrC40iqNx1q"
+      ]
+    },
+    {
+      "id": "loc-3",
+      "name": "Християнська сімейна школа «Логос»",
+      "type": "education",
+      "typeNameUk": "Освіта",
+      "description": "Курси біблійної етики, недільні сімейні семінари та консультації для батьків і дітей.",
+      "address": "вул. Гоголя, 112, Миргород",
+      "coordinates": { "x": 46, "y": 48 },
+      "responsiblePerson": "Андрій Мельник",
+      "email": "logos.myrhorod@ministry.ua",
+      "phone": "+380 5355 5 12 34",
+      "detailedMission": "Логос забезпечує систематичну християнську освіту та духовний супровід сімей Полтавщини, які прагнуть будувати міцні родинні цінності.",
+      "meetingsSchedule": [
+        { "day": "Четвер", "title": "Лекція: Теологія Нового Завіту", "time": "18:00" },
+        { "day": "Субота", "title": "Практикум з лідерства", "time": "11:00" }
+      ],
+      "galleryImages": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuD0QRwkbGZaLnR2IEthLO-PwT_UwCNZsJT_f8yN1sf46n5p2iL8E-SMxmEYFjNL4NpbAbB_cdyscdl2kBD7TP5FaZz0r1__DAWiuh7y4NTz73KI1a3ywi8KW8UeG8A5c2XCGMHwuASVIB9NvRoVnxOcdCQ76vb6vdTnQ4QPVsAs3V_ytFWAIX0Zp5IrckOiS1-VtZI0xJPW1Ya4PVmZqjEUC4JP_bPflG0ObIKIfTTcUEWQ3QB3gwUM9GqAAHbPnDx1qharVwdtPQn6",
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuC5wjesMeAgcDhBVwh2OHkheM5k-D5Dhc14RKJLENdNSmv_UNMSTXoBYBbuUETptAX03SX0EQlkBUm546Shh38LoptAVns-i2AwXZ0f-xX5y65HOQUwrk--vl6_GJRLPU_wv3nQFYMqTwtX165MWUEWYEfDr3Lg24yiXZZX3_L3AImfKALVmEhmNBHSFL4ZAyFWFJtB8obnb4GwQqoKvWimfNj8mW6atACq7d728oxdOHtbcgutHfVsNybARF_fEk2S0JjCO0Wa5yLt"
+      ]
+    },
+    {
+      "id": "loc-4",
+      "name": "Центр дитячого розвитку «Ковчег Надії»",
+      "type": "children",
+      "typeNameUk": "Дитяче",
+      "description": "Розвиваючі дитячі гуртки, християнські інтерактивні ігри та табори для дітей різного віку у Лубнах.",
+      "address": "вул. Ярослава Мудрого, 24, Лубни",
+      "coordinates": { "x": 25, "y": 42 },
+      "responsiblePerson": "Марія Ковальчук",
+      "email": "kovcheg.lubny@ministry.ua",
+      "phone": "+380 5361 6 78 90",
+      "detailedMission": "Формування моральних цінностей у дітей Полтавщини на біблійних засадах через інтерактивні ігри, ляльковий театр, спів та творчі вироби.",
+      "meetingsSchedule": [
+        { "day": "Субота", "title": "Репетиція дитячого хору", "time": "14:00" },
+        { "day": "Неділя", "title": "Заняття Недільної Школи", "time": "10:00" }
+      ],
+      "galleryImages": [
+        "https://lh3.googleusercontent.com/aida-public/AB6AXuD0QRwkbGZaLnR2IEthLO-PwT_UwCNZsJT_f8yN1sf46n5p2iL8E-SMxmEYFjNL4NpbAbB_cdyscdl2kBD7TP5FaZz0r1__DAWiuh7y4NTz73KI1a3ywi8KW8UeG8A5c2XCGMHwuASVIB9NvRoVnxOcdCQ76vb6vdTnQ4QPVsAs3V_ytFWAIX0Zp5IrckOiS1-VtZI0xJPW1Ya4PVmZqjEUC4JP_bPflG0ObIKIfTTcUEWQ3QB3gwUM9GqAAHbPnDx1qharVwdtPQn6"
+      ]
+    },
+    {
+      "id": "loc-5",
+      "name": "Осередок милосердя «Тавіта Гадяч»",
+      "type": "mercy",
+      "typeNameUk": "Милосердя",
+      "description": "Турбота про самотніх людей похилого віку, медична підтримка, паліативний догляд та тепле спілкування.",
+      "address": "вул. Гетьманська, 5, Гадяч",
+      "coordinates": { "x": 58, "y": 20 },
+      "responsiblePerson": "Олена Савченко",
+      "email": "tavita.hadyach@ministry.ua",
+      "phone": "+380 5354 2 34 56",
+      "detailedMission": "Милосердя у дії на півночі Полтавщини: надання гарячих обідів, базових ліків, прання та простої людської присутності для одиноких бабусь та дідусів.",
+      "meetingsSchedule": [
+        { "day": "Вівторок", "title": "Патронажний обхід волонтерів", "time": "09:00 - 13:00" },
+        { "day": "Четвер", "title": "Група взаємопідтримки та вивчення Біблії", "time": "15:00" }
+      ],
+      "galleryImages": []
+    }
+  ],
+  "ministers": [
+    {
+      "id": "min-1",
+      "name": "Олександр Петренко",
+      "title": "Старший пастор",
+      "category": "pastor",
+      "categoryNameUk": "Пастори",
+      "bio": "Понад 20 років Олександр присвятив розбудові християнської громади та допомозі нужденним у Полтавській області. Його бачення — церква як відкритий і привітний простір для кожного.",
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBVdEZHWRFYxryMK380WymKueEeZ-cnuxHp7FIhUeEw7wn2AaEaiveWdfp2avwv9-qi3IyLEG8pENUIqfXdC-XrRbQTlDZAlwn3u_YLx7pFRxufIQPn497nB0S72_AENPiWRkDdi8LZaxqzV-zIBQI5JPVVPHBjZpA8t8TRCrT6vIJ9gmreNfxejqQmbd-BFnDBpzePsL9FfyQs4EOW9WK9Ruu4yTbqAhgF_Dtt2-9IK8lBD4PV5Sgyzbi9wd4ysBxlwc6BjpjINjmA",
+      "email": "petrenko.pastor@ministry.ua",
+      "phone": "+380 50 111 22 33",
+      "socials": {
+        "facebook": "https://facebook.com/pastor.petrenko",
+        "instagram": "https://instagram.com/pastor.petrenko",
+        "telegram": "https://t.me/pastor_petrenko",
+        "youtube": "https://youtube.com/c/pastor_petrenko_sermons"
+      }
+    },
+    {
+      "id": "min-2",
+      "name": "Марія Ковальчук",
+      "title": "Молодіжний лідер",
+      "category": "youth",
+      "categoryNameUk": "Молодіжне",
+      "bio": "Марія координує молодіжні проєкти, християнські квести та табори на Полтавщині. Вона вірить у силу творчості та щирого спілкування для зміцнення віри молоді.",
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuADG7xF-5dzmtv3HKqfZPvaNnVE2n8UYz9W1AumBWOwLKkhwlM2fNYRwDLKP7CA43hucGRU1torWo01k9JfZiDAw4utoavaelGJWlxc4e7fX1dMiIbjzy9iiqxsRw8r-IIMzzVYdksNruEvuNegKrVTz_668qGgkGxd845z0eyN3knY_4TETioncyje7eaHYPCIZc4CXOt94AOc4KBcrFnOZ4hfWOAEpUS9448yDYUTV5muJsHXVqLO8Pl2GWFXS_rf4uH2ORbRXm-P",
+      "email": "kovalchuk.m@ministry.ua",
+      "phone": "+380 63 222 33 44",
+      "socials": {
+        "facebook": "https://facebook.com/kovalchuk.maria",
+        "instagram": "https://instagram.com/kovalchuk.maria",
+        "telegram": "https://t.me/kovalchuk_maria"
+      }
+    },
+    {
+      "id": "min-3",
+      "name": "Андрій Мельник",
+      "title": "Керівник освітнього напрямку",
+      "category": "education",
+      "categoryNameUk": "Освіта",
+      "bio": "Андрій координує біблійні курси, лекції та сімейні семінари. Його мета — допомагати людям зростати духовно та інтелектуально.",
+      "photoUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXu1Z8XTYXCsTXbbIcxso7byo0bRgCAmCGI3ubdv1PZbHIsk1LSrXwCzxNl3uoKkAddJHkAldYQQcwFw5fZIzphqns9NZt9LAItXzvoq7ecgvRigZnBghhIcMySLaQBtNdcVG6TSHxdSZvPHsH42UTMuFk6Vqs1Xa6BSi3FjVWaIdqZrNylaglh2GP4whsqGLQgZRmQ6dFViL4hWKVlXxu1RObeX2N4i4w_coGRkkWeP6idNfcEFzRZvFIWF5QpTrVM9VVMJLOudLz4v",
+      "email": "melnyk.logos@ministry.ua",
+      "phone": "+380 97 333 44 55",
+      "socials": {
+        "facebook": "https://facebook.com/melnyk.andriy",
+        "telegram": "https://t.me/melnyk_logos"
+      }
+    }
+  ],
+  "news": [
+    {
+      "id": "news-1",
+      "title": "Обласна молодіжна конференція у Полтаві: сила в єдності",
+      "date": "12 Червня, 2024",
+      "category": "Конференції",
+      "description": "Понад п’ятсот представників християнських громад Полтавщини зібралися у Полтаві для обговорення духовного розвитку молоді та волонтерських ініціатив.",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuCZ2wNEF76h9mrcxX1aTUDAlLcNbqpAn2uAiHJ8TnJs8JL0GZHmFvW6--6b5kBs9CTkHPlaZ8lCJ1ORRi8vgkKoYiEdPW-TnrHz-wgy4MpMeCJz9YSoQiUWpwU3RZVDcTn7YP2AFaXEcxufXDayXocS82LoTR4yqKPlwTbWItaq6dvRzseeq55sifI3stqsc0WEfGweFb8Xzz241SIV9hICnAVxbiVgh3C9B2Zo5_sQ-qWqERsOJ9LmnoBRVI2BKZeurZ9itQsyZT20",
+      "content": "Конференція стала потужним майданчиком для обміну досвідом служіння в кризових ситуаціях. Представники церков з усіх куточків Полтавської області обговорили координацію допомоги, розвиток недільних шкіл та проведення дитячих літніх таборів."
+    },
+    {
+      "id": "news-2",
+      "title": "Новий освітній курс для волонтерів християнських громад",
+      "date": "10 Червня, 2024",
+      "category": "Освіта",
+      "description": "Запуск інтерактивної програми для навчання координаторів соціальних проєктів у містах та селах Полтавщини.",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuC5wjesMeAgcDhBVwh2OHkheM5k-D5Dhc14RKJLENdNSmv_UNMSTXoBYBbuUETptAX03SX0EQlkBUm546Shh38LoptAVns-i2AwXZ0f-xX5y65HOQUwrk--vl6_GJRLPU_wv3nQFYMqTwtX165MWUEWYEfDr3Lg24yiXZZX3_L3AImfKALVmEhmNBHSFL4ZAyFWFJtB8obnb4GwQqoKvWimfNj8mW6atACq7d728oxdOHtbcgutHfVsNybARF_fEk2S0JjCO0Wa5yLt",
+      "content": "Цей унікальний курс розроблено провідними експертами в галузі соціального проектування та практичного богослов'я. Програма складається з модулів, що охоплюють теми від кризового менеджменту до фінансової прозорості благодійних ініціатив."
+    },
+    {
+      "id": "news-3",
+      "title": "Відкриття нової благодійної їдальні у Кременчуці",
+      "date": "08 Червня, 2024",
+      "category": "Громади",
+      "description": "Громада об'єднала зусилля для створення хабу, який забезпечуватиме гарячими обідами потребуючих.",
+      "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXu2l_b2vLnCp2m3R9Z5oWYoN5dBMMorz6b3HT65i1a0dVM8XH9YYwF3eMSWfSJCWaM74nKgrdSSNS7SVg8kwn2m1VnvYVzPxXd_qn2ERJj_puFtAVeAdSVZwkkeROKw9yje_qKexiLDE2FnRLLMp82esD9RD74x93VTn2nd77_bw49Z8OUecujG8Jq4ikD0OvEmlOLIZJtrGrCBtzgvpJp4BPOzj-Y5n0VJ5dDuMX4EnUmTSfAIajvJmr4KBfIHKwyrifrC40iqNx1q",
+      "content": "Нова станція була збудована силами місцевих волонтерів. Окрім щоденної кухні, тут діятиме пункт обігріву, пральня та кімната для дитячих ігор. Це простір, де люди можуть отримати тепле слово підтримки та духовну опіку."
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-1",
+      "date": "2026-07-15",
+      "day": "15",
+      "month": "Лип",
+      "title": "Молодіжний квест «Шлях віри» у Полтаві",
+      "location": "Полтава, Корпусний сад",
+      "category": "youth",
+      "categoryNameUk": "Молодіжне",
+      "description": "Інтерактивна командна гра для молоді, яка поєднує спортивне орієнтування, логічні загадки на біблійну тематику та веселе спілкування."
+    },
+    {
+      "id": "evt-2",
+      "date": "2026-07-22",
+      "day": "22",
+      "month": "Лип",
+      "title": "Благодійний концерт духовного хору у Кременчуці",
+      "location": "Кременчук, Центр культури",
+      "category": "social",
+      "categoryNameUk": "Соціальне",
+      "description": "Концерт духовної музики для збору коштів на підтримку кризових сімей та переселенців Полтавської області. Будуть виконані класичні хорові псалми та авторські композиції."
+    },
+    {
+      "id": "evt-3",
+      "date": "2026-07-29",
+      "day": "29",
+      "month": "Лип",
+      "title": "Семінар «Християнські сімейні цінності» у Миргороді",
+      "location": "Миргород, Хаб «Логос»",
+      "category": "education",
+      "categoryNameUk": "Освіта",
+      "description": "Лекція та круглий стіл з християнськими психологами про те, як будувати міцні, гармонійні відносини в родині на основі Божих заповідей та Слова."
+    }
+  ]
+}
